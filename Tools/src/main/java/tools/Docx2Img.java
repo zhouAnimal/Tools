@@ -13,7 +13,7 @@ import org.apache.poi.xwpf.usermodel.XWPFDocument;
 import org.apache.poi.xwpf.usermodel.XWPFPictureData;
 
 /**
- * 导出doc文件中的所有图片
+ * 导出docx文件中的所有图片，目前不支持doc文件
  * 
  * @author BIGIOZ
  *
